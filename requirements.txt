@@ -1,13 +1,6 @@
-1.python
+streamlit
+scikit-learn
+pandas
+numpy
+joblib
 
-2.streamlit
-
-3.scikit-learn
-
-4.pandas
-
-5.numpy
-
-5.joblib
-
-6.github
