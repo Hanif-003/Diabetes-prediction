@@ -38,6 +38,9 @@ if st.button("Click to Predict Diabetes"):
         st.error("⚠️ The patient is likely to have diabetes.")
     else:
         st.success("✅ The patient is unlikely to have diabetes.")
+   
+
+  
 else:
     st.info("Please fill the form and click the button to get prediction.")
 
