@@ -2,6 +2,11 @@
 
 This project is a machine learning web application that predicts the likelihood of diabetes based on user input health parameters. Built using Python, Streamlit, and scikit-learn, it allows users to interactively input values and get real-time predictions.
 
+## 🔗 Live Demo
+
+[👉 Click here to try the DIABETES Prediction App](https://hanif-003-diabetes-prediction-app-k2n0sp.streamlit.app/)
+
+
 ##  Features
 
 - User-friendly web interface with Streamlit
